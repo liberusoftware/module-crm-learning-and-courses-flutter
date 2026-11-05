@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-learning-and-courses-flutter",
+  "capabilityKey": "liberusoftware/module-crm-learning-and-courses",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_learning_and_courses_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/learning-and-courses.md",
+  "presentationPlan": "projects/crm/flutter/learning-and-courses.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
